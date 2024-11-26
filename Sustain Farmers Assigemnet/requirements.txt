@@ -4,4 +4,7 @@ matplotlib
 seaborn
 streamlit
 openpyxl
+flask
+fastapi
+uvicorn
 scikit-learn
